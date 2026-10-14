@@ -1,0 +1,9 @@
+node_modules/
+fixtures/
+artifacts/
+releases/
+/scripts/inspect-*.mjs
+/scripts/make-*-archive.mjs
+/scripts/prepare-*.mjs
+/scripts/integration-driver*
+*.log
